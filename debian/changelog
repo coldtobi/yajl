@@ -1,6 +1,7 @@
 yajl (2.1.0-4) UNRELEASED; urgency=medium
 
   * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
 
  -- Debian Janitor <janitor@jelmer.uk>  Mon, 16 Jan 2023 00:08:32 -0000
 
