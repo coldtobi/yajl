@@ -1,9 +1,9 @@
-yajl (2.1.0-2+deb9u1) stretch-security-UNRELEASED; urgency=medium
+yajl (2.1.0-2+deb9u1) stretch-security; urgency=medium
 
   * Non-maintainer upload by the ELTS Security Team.
   * Import upstream patch for CVE-2023-33460. (Closes: #1039984)
 
- -- Tobias Frost <tobi@debian.org>  Fri, 30 Jun 2023 19:09:26 +0200
+ -- Tobias Frost <tobi@debian.org>  Sat, 01 Jul 2023 11:36:03 +0200
 
 yajl (2.1.0-2) unstable; urgency=medium
 
