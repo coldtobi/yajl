@@ -1,3 +1,10 @@
+yajl (2.1.0-3+deb11u1) bullseye; urgency=medium
+
+  * Non-maintainer upload.
+  * Import upstream patch for CVE-2023-33460. (Closes: #1039984)
+
+ -- Tobias Frost <tobi@debian.org>  Sun, 02 Jul 2023 13:31:39 +0200
+
 yajl (2.1.0-3) unstable; urgency=medium
 
   [ Jelmer Vernooĳ ]
