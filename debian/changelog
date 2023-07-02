@@ -2,6 +2,7 @@ yajl (2.1.0-4) UNRELEASED; urgency=medium
 
   * Acknowledge NMU.  Thank you, Tobias, for the work.
     (Closes: #1039984, #1040034)
+  * Patch CVE-2017-16516
 
  -- John Stamp <jstamp@users.sourceforge.net>  Sun, 02 Jul 2023 10:40:25 -0700
 
