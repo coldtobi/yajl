@@ -12,6 +12,7 @@ yajl (2.1.0-4) UNRELEASED; urgency=medium
     (Closes: #1039984, #1040034)
   * Patch CVE-2017-16516 and CVE-2022-24795 (Closes: #1040036)
   * Bump Standards-Version to 4.6.2
+  * Bump debhelper compatibility to 13.
 
  -- John Stamp <jstamp@users.sourceforge.net>  Sun, 02 Jul 2023 10:40:25 -0700
 
