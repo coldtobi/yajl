@@ -2,6 +2,10 @@ yajl (2.1.0-4) UNRELEASED; urgency=medium
 
   [Debian Janitor]
   * Apply multiarch hints.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+  * Drop transition for old debug package migration.
+  * Set upstream metadata fields: Repository.
 
   [John Stamp]
   * Acknowledge NMU.  Thank you, Tobias, for the work.
