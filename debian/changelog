@@ -1,3 +1,11 @@
+yajl (2.1.0-3.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Import upstream patch for CVE-2023-33460. (Closes: #1039984)
+  * Fix d/control Homepage field (Closes: #1040034)
+
+ -- Tobias Frost <tobi@debian.org>  Sat, 01 Jul 2023 14:38:32 +0200
+
 yajl (2.1.0-3) unstable; urgency=medium
 
   [ Jelmer Vernooĳ ]
