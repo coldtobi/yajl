@@ -1,4 +1,4 @@
-yajl (2.1.0-3.1) unstable; urgency=medium
+yajl (2.1.0-3+deb12u1) bookworm; urgency=medium
 
   * Non-maintainer upload.
   * Import upstream patch for CVE-2023-33460. (Closes: #1039984)
