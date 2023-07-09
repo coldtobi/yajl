@@ -1,4 +1,4 @@
-yajl (2.1.0-4) UNRELEASED; urgency=medium
+yajl (2.1.0-4) unstable; urgency=medium
 
   [Debian Janitor]
   * Apply multiarch hints.
@@ -14,7 +14,7 @@ yajl (2.1.0-4) UNRELEASED; urgency=medium
   * Update source url in debian/copyright.
   * Don't override dh_strip in debian/rules.  No longer needed.
 
- -- John Stamp <jstamp@users.sourceforge.net>  Sun, 02 Jul 2023 10:40:25 -0700
+ -- John Stamp <jstamp@users.sourceforge.net>  Sun, 09 Jul 2023 10:04:53 -0700
 
 yajl (2.1.0-3.1) unstable; urgency=medium
 
