@@ -12,6 +12,7 @@ yajl (2.1.0-4) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.6.2
   * Bump debhelper compatibility to 13.
   * Update source url in debian/copyright.
+  * Don't override dh_strip in debian/rules.  No longer needed.
 
  -- John Stamp <jstamp@users.sourceforge.net>  Sun, 02 Jul 2023 10:40:25 -0700
 
