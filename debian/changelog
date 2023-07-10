@@ -1,3 +1,14 @@
+yajl (2.1.0-3+deb10u2) buster-security-UNRELEASED; urgency=medium
+
+  [Tobias Frost]
+  * Non-maintainer upload by the LTS Security Team.
+  * Cherry pick John's CVE fixes from 2.1.0-4
+
+  [John Stamp]
+  * Patch CVE-2017-16516 and CVE-2022-24795 (Closes: #1040036)
+
+ -- Tobias Frost <tobi@debian.org>  Mon, 10 Jul 2023 18:24:57 +0200
+
 yajl (2.1.0-3+deb10u1) buster-security; urgency=medium
 
   * Non-maintainer upload by the LTS Security Team.
