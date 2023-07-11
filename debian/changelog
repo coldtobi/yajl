@@ -1,4 +1,4 @@
-yajl (2.1.0-2+deb8u2) jessie-security-UNRELEASED; urgency=medium
+yajl (2.1.0-2+deb8u2) jessie-security; urgency=medium
 
   [Tobias Frost]
   * Non-maintainer upload by the ELTS Security Team.
@@ -8,7 +8,7 @@ yajl (2.1.0-2+deb8u2) jessie-security-UNRELEASED; urgency=medium
   [John Stamp]
   * Patch CVE-2017-16516 and CVE-2022-24795 (Closes: #1040036)
 
- -- Tobias Frost <tobi@debian.org>  Mon, 10 Jul 2023 19:32:35 +0200
+ -- Tobias Frost <tobi@debian.org>  Tue, 11 Jul 2023 18:33:08 +0200
 
 yajl (2.1.0-2+deb8u1) jessie-security; urgency=medium
 
