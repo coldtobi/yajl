@@ -2,7 +2,13 @@ yajl (2.1.0-3+deb11u2) bullseye; urgency=medium
 
   [Tobias Frost]
   * Non-maintainer upload.
-  * Cherry pick John's CVE fixes from 2.1.0-4 and 2.1.0-5
+  * Cherry pick John's CVE fixes from 2.1.0-4 and 2.1.0-5:
+   - CVE-2017-16516: Potential in a denial of service with crafted JSON
+     file
+   - CVE-2022-24795: integer overflow which leads to subsequent heap 
+     memory corruption when dealing with large (~2GB) inputs.
+   - CVE-2023-33460: memory leak which potentially can lead to a out-of-
+     memory situation and cause a crash.
 
   [John Stamp]
   * Patch CVE-2017-16516 and CVE-2022-24795 (Closes: #1040036)
